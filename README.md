@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melmykroman
+- 👋 Hi, I’m @melnykroman
 - 👀 I’m interested in coding on js, c#
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
